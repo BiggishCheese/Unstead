@@ -33,20 +33,20 @@ href="UNSTEAD%20LISTS%202025.05%20BY%20EACH%20DAY%20-%20Update_files/filelist.xm
  var c_lTabs=14;
 
  var c_rgszSh=new Array(c_lTabs);
- c_rgszSh[0] = "BIRDS 2025";
- c_rgszSh[1] = "BIRDS HISTORICAL";
- c_rgszSh[2] = "BIRD RINGING";
+ c_rgszSh[0] = "BIRDSÂ 2025";
+ c_rgszSh[1] = "BIRDSÂ HISTORICAL";
+ c_rgszSh[2] = "BIRDÂ RINGING";
  c_rgszSh[3] = "MAMMALS";
- c_rgszSh[4] = "AMPHIBIANS AND REPTILES";
- c_rgszSh[5] = "DRAGONFLIES &amp; DAMSELFLIES";
+ c_rgszSh[4] = "AMPHIBIANSÂ ANDÂ REPTILES";
+ c_rgszSh[5] = "DRAGONFLIESÂ &amp;Â DAMSELFLIES";
  c_rgszSh[6] = "BUTTERFLIES";
  c_rgszSh[7] = "Sheet2";
  c_rgszSh[8] = "Sheet1";
  c_rgszSh[9] = "MOTHS";
- c_rgszSh[10] = "OTHER INVERTEBRATES";
+ c_rgszSh[10] = "OTHERÂ INVERTEBRATES";
  c_rgszSh[11] = "FLORA";
  c_rgszSh[12] = "FUNGI";
- c_rgszSh[13] = "LICHENS &amp; BRYOPHYTES";
+ c_rgszSh[13] = "LICHENSÂ &amp;Â BRYOPHYTES";
 
 
 
